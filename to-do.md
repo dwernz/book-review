@@ -7,7 +7,6 @@ Go-Givers Sell More
 The Go-Giver Influencer
 Go-Giver
 The Alchemist
-Everyone Communicates, Few Connect
 The Travel's Summit
 The Secrets of Successful Selling Habits
 What to Say When you Talk to Your Self
