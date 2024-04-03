@@ -1,8 +1,3 @@
-Start with Why
-Go for No
-See You at the Top
-The 5AM Club
-The Magic of Thinking Big
 Chop Wood Carry Water
 Rejection Proof
 The Win Without Pitching Manifesto
