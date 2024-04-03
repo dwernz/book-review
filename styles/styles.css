@@ -5,6 +5,30 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.about {
+    margin: 20px;
+    font-size: 1.2rem;
+    line-height: 1.2;
+}
+
+.book-list {
+    text-align: center;
+    list-style-type: none;
+    margin: 30px;
+}
+
+.book-list li {
+    margin: 10px;
+}
+
+.book-list li a {
+    text-decoration: none;
+}
+
+.book-list li a:hover {
+    text-decoration: underline;
+}
+
 .book-card {
     margin: 30px auto;
     width: 80%;
@@ -53,4 +77,9 @@
 .book-key-lessons li {
     margin: 15px;
     text-align: left;
+}
+
+footer {
+    text-align: center;
+    margin: 20px;
 }
