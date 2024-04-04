@@ -3,9 +3,7 @@ The Business School for People Who Like Helping People
 Rich Dad Poor Dad
 The Go-Getter
 The Infinite Game
-Go-Givers Sell More
 The Go-Giver Influencer
-Go-Giver
 The Alchemist
 The Travel's Summit
 The Secrets of Successful Selling Habits
