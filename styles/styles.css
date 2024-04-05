@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: #fdfdfd;
 }
 
 .about {
@@ -15,10 +16,11 @@
     text-align: center;
     list-style-type: none;
     margin: 30px;
+    padding: 25px;
 }
 
 .book-list li {
-    margin: 10px;
+    margin: 15px;
 }
 
 .book-list li a {

@@ -1,16 +1,11 @@
 The Win Without Pitching Manifesto
-The Business School for People Who Like Helping People
-Rich Dad Poor Dad
-The Go-Getter
 The Infinite Game
-The Go-Giver Influencer
-The Alchemist
+The Go-Giver Influencer\
 The Travel's Summit
 The Secrets of Successful Selling Habits
 What to Say When you Talk to Your Self
 The Greatest Salesman in the World
 The Traveler's Gift
-Soundtracks
 The Greatest Salesman in the World Part II: The End of the Story
 Mindset
 8 Attributes of Great Achievers
