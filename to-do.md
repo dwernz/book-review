@@ -1,10 +1,7 @@
 The Win Without Pitching Manifesto
-The Infinite Game
-The Go-Giver Influencer\
 The Travel's Summit
 The Secrets of Successful Selling Habits
 What to Say When you Talk to Your Self
-The Greatest Salesman in the World
 The Traveler's Gift
 The Greatest Salesman in the World Part II: The End of the Story
 Mindset

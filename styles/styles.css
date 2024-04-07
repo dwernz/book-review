@@ -1,3 +1,7 @@
+:root {
+    --quote-background: #efefef;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -29,6 +33,50 @@
 
 .book-list li a:hover {
     text-decoration: underline;
+}
+
+#quote-container {
+    width: 85%;
+    margin: 20px auto;
+    padding: 55px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: var(--quote-background);
+    border-radius: 8px;
+    border: 1px solid #999;
+}
+
+#quote-container p {
+    background-color: var(--quote-background);
+    margin: 30px auto;
+    font-size: 2rem;
+}
+
+#quote {
+    background-color: var(--quote-background);
+}
+
+#quote-author {
+    margin-top: 10px;
+    font-size: 1.5rem;
+    background-color: var(--quote-background);
+}
+
+#quote-button {
+    margin: 40px auto 0px;
+    padding: 15px;
+    border-radius: 4px;
+    max-width: 50%;
+    background-color: #00beef;
+    color: white;
+    border: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+#quote-button:hover {
+    background-color: #00adde;
 }
 
 .book-card {
