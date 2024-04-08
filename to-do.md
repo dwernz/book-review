@@ -1,6 +1,3 @@
-The Win Without Pitching Manifesto
-The Travel's Summit
-What to Say When you Talk to Your Self
 The Greatest Salesman in the World Part II: The End of the Story
 Mindset
 8 Attributes of Great Achievers
