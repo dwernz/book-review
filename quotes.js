@@ -432,7 +432,7 @@ const quotes = [
         author: `Sterling Sill`
     }, // 108
     {
-        quote: `If we did all the things we are capable of doing, we would literally astound ourselves.`,
+        quote: `If we all did the things we are capable of doing, we would literally astound ourselves.`,
         author: `Thomas Edison`
     }, // 109
     {
@@ -475,210 +475,210 @@ const quotes = [
         quote: `Surely what a man does when he is taken off his guard is the best evidence for what sort of a man he is? Surely what pops out before the man has time to put on a disguise is the truth? If there are rats in a cellar you are most likely to see them if you go in very suddenly. But the suddenness does not create the rats; it only prevents them from hiding. In the same way suddenness of the provocation does not make an ill-tempered man: it only shows me what an ill-tempered man I am.`,
         author: `C.S. Lewis`
     }, // 119
+    {
+        quote: `If you listen to any thought long enough, it becomes a part of your personal playlist.`,
+        author: `Jon Acuff`
+    }, // 120
+    {
+        quote: `You know when you're a child and your imagination is limitless and you really believe in magic? I thought I had super powers.`,
+        author: `Michelle Phan`
+    }, // 121
+    {
+        quote: `If an egg is broken by an outside force, life ends. If broken by an inside force, life begins. Great things always begin from the inside.`,
+        author: `Jim Kwik`
+    }, // 122
+    {
+        quote: `We do not need magic to transform our world. We carry all of the power we need inside ourselves already.`,
+        author: `J.K. Rowling`
+    }, // 123
+    {
+        quote: `No problem can be solved from the same level of consciousness that created it.`,
+        author: `Albert Einstein`
+    }, // 124
+    {
+        quote: `We now accept the fact that learning is a lifelong process of keeping abreast of change. And the most pressing task is to teach people how to learn.`,
+        author: `Peter Drucker`
+    }, // 125
+    {
+        quote: `The human brain has 100 billion neurons, each neuron connected to 10,000 other neurons. Sitting on your shoulders is the most complicated object in the known universe.`,
+        author: `Michio Kaku`
+    }, // 126
+    {
+        quote: `The only way to win is to learn faster than anyone else.`,
+        author: `Eric Ries`
+    }, // 127
+    {
+        quote: `I not only use all the brains that I have, but all that I can borrow.`,
+        author: `Woodrow Wilson`
+    }, // 128
+    {
+        quote: `The one real object of education is to leave a person in the condition of continually asking questions.`,
+        author: `Bishop Mandell Creighton`
+    }, // 129
+    {
+        quote: `He who asks questions cannot avoid the answers.`,
+        author: `Cameroon Proverb`
+    }, // 130
+    {
+        quote: `Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.`,
+        author: `Albert Einstein`
+    }, // 131
+    {
+        quote: `It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so.`,
+        author: `Mark Twain`
+    }, // 132
+    {
+        quote: `Life has no limitations, except the ones you make.`,
+        author: `Les Brown`
+    }, // 133
+    {
+        quote: `There is one grand lie - that we are limited. The only limits we have are the limits we believe.`,
+        author: `Wayne Dyer`
+    }, // 134
+    {
+        quote: `Culture is nourished by human motivation - a limitless resource that can sometimes be underestimated.`,
+        author: `Lynne Doughtie`
+    }, // 135
+    {
+        quote: `Reasons reap results.`,
+        author: `Jim Kwik`
+    }, // 136
+    {
+        quote: `You see, when you give your body the best possible fuel, you have more energy, you're stronger, you think more quickly.`,
+        author: `Michelle Obama`
+    }, // 137
+    {
+        quote: `We first make our habits, and then our habits make us.`,
+        author: `John Dryden`
+    }, // 138
+    {
+        quote: `As you step into your limitless self, you might be confronted with old habits and patterns that are not necessarily based in truth. These old ways of being show up because you have repeated many of them thousands of times.`,
+        author: `Debbie Ford`
+    }, // 139
+    {
+        quote: `Habit is either the best of servants or the worst of masters.`,
+        author: `Nathaniel Emmons`
+    }, // 140
+    {
+        quote: `To put it another way: flow is the telephone booth where Clark Kent changes clothes, the place from where Superman emerges.`,
+        author: `Steven Kotler`
+    }, // 141
+    {
+        quote: `The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.`,
+        author: `Alvin Toffler`
+    }, // 142
+    {
+        quote: `Whenever you want to achieve something, keep your eyes open, concentrate, and make sure you know exactly what it is you want. No one can hit their target with their eyes closed.`,
+        author: `Paulo Coelho`
+    }, // 143
+    {
+        quote: `Nothing has such a power to broaden the mind as the ability to investigate systematically.`,
+        author: `Marcus Aurelius`
+    }, // 144
+    {
+        quote: `The secret of a good memory is attention to a subject depends upon our interest to it. We rarely forget that which has made a deep impression on our minds.`,
+        author: `Tyron Edwards`
+    }, // 145
+    {
+        quote: `All thought is a feat of association: having what's in front of you bring up something in your mind that you almost didn't know you knew.`,
+        author: `Robert Frost`
+    }, // 146
+    {
+        quote: `The man who does not read good books has no advantage over the man who can't read them!`,
+        author: `Mark Twain`
+    }, // 147
+    {
+        quote: `Thinking is the hardest work there is, which is the probable reason why so few people engage in it.`,
+        author: `Henry Ford`
+    }, // 148
+    {
+        quote: `The life which is unexamined is not worth living.`,
+        author: `Socrates`
+    }, // 149
+    {
+        quote: `We shall not cease from exploration and the end of all our exploring will be to arrive where we started and know the place for the first time.`,
+        author: `T.S. Eliot`
+    }, // 150
     // {
     //     quote: ``,
     //     author: ``
-    // }, // 120
+    // }, // 151
     // {
     //     quote: ``,
     //     author: ``
-    // },
+    // }, // 152
     // {
     //     quote: ``,
     //     author: ``
-    // },
+    // }, // 153
     // {
     //     quote: ``,
     //     author: ``
-    // },
+    // }, // 154
     // {
     //     quote: ``,
     //     author: ``
-    // },
+    // }, // 155
     // {
     //     quote: ``,
     //     author: ``
-    // },
+    // }, // 156
     // {
     //     quote: ``,
     //     author: ``
-    // },
+    // }, // 157
     // {
     //     quote: ``,
     //     author: ``
-    // },
+    // }, // 158
     // {
     //     quote: ``,
     //     author: ``
-    // },
+    // }, // 159
     // {
     //     quote: ``,
     //     author: ``
-    // },
+    // }, // 160
     // {
     //     quote: ``,
     //     author: ``
-    // },
+    // }, // 161
     // {
     //     quote: ``,
     //     author: ``
-    // },
+    // }, // 162
     // {
     //     quote: ``,
     //     author: ``
-    // },
+    // }, // 163
     // {
     //     quote: ``,
     //     author: ``
-    // },
+    // }, // 164
     // {
     //     quote: ``,
     //     author: ``
-    // },
+    // }, // 165
     // {
     //     quote: ``,
     //     author: ``
-    // },
+    // }, // 166
     // {
     //     quote: ``,
     //     author: ``
-    // },
+    // }, // 167
     // {
     //     quote: ``,
     //     author: ``
-    // },
+    // }, // 168
     // {
     //     quote: ``,
     //     author: ``
-    // },
+    // }, // 169
     // {
     //     quote: ``,
     //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
-    // {
-    //     quote: ``,
-    //     author: ``
-    // },
+    // }, // 170
     // {
     //     quote: ``,
     //     author: ``

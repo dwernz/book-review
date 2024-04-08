@@ -1,8 +1,6 @@
 The Win Without Pitching Manifesto
 The Travel's Summit
-The Secrets of Successful Selling Habits
 What to Say When you Talk to Your Self
-The Traveler's Gift
 The Greatest Salesman in the World Part II: The End of the Story
 Mindset
 8 Attributes of Great Achievers
@@ -18,3 +16,4 @@ Pro-sumer Power II
 Partnership is the New Leadership
 Think Straight: Change Your Thoughts, Change Your Life
 The Bullet Journal Method: Track the Past, Order the Present, Design the Future
+Extreme Ownership
